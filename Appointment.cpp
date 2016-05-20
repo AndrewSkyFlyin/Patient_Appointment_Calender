@@ -1,10 +1,10 @@
 /*
-AUTHOR: Nicholas Arroyo
+AUTHOR: Nicholas Arroyo, Andrew Nguyen
 DATE:	November 25, 2015
 CLASS:	CPSC362
 DESCRIPTION:
 Implementation file for Appointment.h.
-Basically, sets up the code for what the functions of Appointmen should do.
+Basically, sets up the code for what the functions of Appointment should do.
 
 int returnAppointmentID();
 void show_Appointment_Date();
